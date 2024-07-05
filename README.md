@@ -1,4 +1,4 @@
-# customizable_banner
+# customizable_popup
 extension module for Opencart
 
 Discounted Products Banner Module for OpenCart
